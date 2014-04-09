@@ -1,7 +1,8 @@
 SourceWebXml
 ============
 
-####相关文件都在[download][1]目录下
+
+###相关文件都在[download][1]目录下
 
 **SourceWebXmlxxx.jar**
 本天气源Jar包，放在项目libs目录下
@@ -13,15 +14,20 @@ SourceWebXml
 ----------
 
 
-####天气源网址
+###天气源网址
 http://www.webxml.com.cn
 
 
 ----------
 
 
-####具体使用方法详见
+###具体使用方法详见
 https://github.com/huabeiyipilang/weatherengine
 
+
+----------
+
+
+***PS:由于是免费的，每天的请求次数有限。***
 
   [1]: https://github.com/huabeiyipilang/SourceWebXml/tree/master/download
